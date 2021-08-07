@@ -8,13 +8,10 @@
 
 - 🔭 I’m currently working on **[Food Delivery](https://rohanmahto592.github.io/food_delivery/)**
 - 🚀 I'm a third year undergrad in Infromation Technology(Galgotia College Of Engineering And Technology)
-- 📫 I'm helping more then 70+ students in learning **Data Structures and Algorithms.**
+- 📫 I'm helping more than 70+ students in learning **Data Structures and Algorithms.**
 - 📫 I'm **C++ Programmer**
-
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
-
 - 📫 How to reach me **rohanmahto592@gmail.com**
-
 - ⚡ Fun fact **I have broken humor and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
