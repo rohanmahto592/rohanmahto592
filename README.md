@@ -10,16 +10,14 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 
-
 - 📫 How to reach me **rohanmahto592@gmail.com**
 
-- ⚡ Fun fact **At my free time i explore new technologies and go to the GYM very often.**
+- ⚡ Fun fact **I have broken humor and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://www.c++.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
