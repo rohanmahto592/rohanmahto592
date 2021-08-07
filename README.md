@@ -1,7 +1,7 @@
 <a href="#"><img  width="100%" height="175px" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rohan</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I'm passionate about learning new technologies.</h3>
 
 
 ## 🙋‍♂️ About Me
