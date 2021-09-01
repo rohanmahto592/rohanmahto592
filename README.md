@@ -6,7 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Food Delivery](https://rohanmahto592.github.io/food_delivery/)**
 - 🚀 I'm a third year undergrad in Information Technology(Galgotias College Of Engineering And Technology)
 - 📫 I'm helping more than 70+ students in learning **Data Structures and Algorithms.**
 - 📫 I'm **C++ Programmer**
