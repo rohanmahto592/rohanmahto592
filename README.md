@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🚀 I'm final year undergrad in Information Technology(Galgotias College Of Engineering And Technology)
+- 🚀 Working as a Software Developer at SHL.
 - 📫 I'm helping more than 100+ students in learning **Data Structures and Algorithms.**
 - 📫 I'm **C++ Programmer**
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
